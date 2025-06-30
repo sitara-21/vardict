@@ -1,5 +1,7 @@
 # VarDict
-Pipeline to run VarDict Mutation Caller
+Pipeline to run VarDict Mutation Caller.
+
+## Overview
 This repo includes different components and respective scripts for those components required to run VarDict mutation caller. The main script ```00_vardict_pipeline.sh``` contains different components for running VarDict on samples from end-to-end. Description of each component can be found below.
 
 ## Step1
